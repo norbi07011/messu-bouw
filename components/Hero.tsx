@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
   };
 
   return (
-  <section id="home" className="relative bg-cover bg-center min-h-screen flex items-center justify-center" style={{ backgroundImage: "url('/images/okladka-strony.jpg')" }}>
+  <section id="home" className="relative bg-cover bg-center min-h-screen flex items-center justify-center" style={{ backgroundImage: "url('/images/okladka-strony 1.jpg')" }}>
       <div className="absolute inset-0 bg-[#4A3F35] opacity-60"></div>
       <div className="relative z-10 text-center text-white px-4">
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4 animate-fade-in-down">
